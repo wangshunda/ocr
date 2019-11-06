@@ -1,5 +1,5 @@
 {
-    "name": "wangshunda2010/ocr",
+    "name": "wangshunda/ocr",
     "description": "ocr",
     "type": "project",
     "require": {
@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
      "autoload": {
         "psr-4": {
-            "wangshunda2010\\ocr\\": "src/"
+            "wangshunda\\ocr\\": "src/"
         }
     }
 
