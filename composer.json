@@ -1,0 +1,22 @@
+{
+    "name": "wangshunda2010/ocr",
+    "description": "ocr",
+    "type": "project",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack DU",
+            "email": "1459148900@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+     "autoload": {
+        "psr-4": {
+            "wangshunda2010\\ocr\\": "src/"
+        }
+    }
+
+}
