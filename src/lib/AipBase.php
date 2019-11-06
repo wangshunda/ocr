@@ -14,7 +14,7 @@
 * License for the specific language governing permissions and limitations under
 * the License.
 */
-namespace webshunda\ocr;
+namespace wangshunda\ocr;
 
 require_once 'AipHttpClient.php';
 require_once 'AipBCEUtil.php';
