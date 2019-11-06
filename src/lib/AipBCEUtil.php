@@ -1,5 +1,5 @@
 <?php
-namespace webshunda\ocr;
+namespace wangshunda\ocr;
 
 /*
 * Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
